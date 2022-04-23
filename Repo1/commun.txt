@@ -1,0 +1,3 @@
+Ce placer dans le repertoire ProjetSystemReseau Executer "make all" 
+hohoho, et une bouteille de rhum
+puis Executer "Server/Server" pour lancer le server puis Executer "Client/Client" pour lancer le client
