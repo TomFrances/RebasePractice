@@ -1,3 +1,4 @@
 Ce placer dans le repertoire ProjetSystemReseau Executer "make all" 
+WESH ALORS
 hohoho, et une bouteille de chartreuse verte (la jaune c'est sheitan)
 puis Executer "Server/Server" pour lancer le server puis Executer "Client/Client" pour lancer le client
